@@ -1,0 +1,21 @@
+{
+    "name": "kazan/good_crud",
+    "autoload": {
+        "psr-4": {
+            "Kazan\\GoodCrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anas Chahid",
+            "email": "anas.chahid777@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+
+    }
+}
